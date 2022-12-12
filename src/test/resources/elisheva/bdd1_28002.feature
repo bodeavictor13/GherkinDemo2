@@ -2,7 +2,7 @@
 @BSPID28002REV0.3.0
 Feature: trtr
 @TSCID1859009
-	Scenario: trtr changed again
+	Scenario: trtr changed
 		Given trtr
 		When trtr
 		Then trtr
