@@ -10,9 +10,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.hpe.alm.octane</groupId>
+            <groupId>com.microfocus.adm.almoctane.bdd</groupId>
             <artifactId>octane-cucumber-jvm</artifactId>
-            <version>12.60.48</version>
+            <version>1.0.2</version>
         </dependency>
     </dependencies>
 
